@@ -16,3 +16,10 @@ body {
     position: absolute;
     bottom: 0;
 }
+
+.obstacle {
+    height: 10vh;
+    width: 20vw;
+    background-color: orange;
+    position: absolute;
+}

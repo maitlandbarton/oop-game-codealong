@@ -11,15 +11,11 @@ body {
 
 #player {
     background-color: fuchsia;
-    height: 10vh;
-    width: 20vw;
     position: absolute;
     bottom: 0;
 }
 
 .obstacle {
-    height: 10vh;
-    width: 20vw;
     background-color: orange;
     position: absolute;
 }
